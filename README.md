@@ -1,2 +1,2 @@
-# python-structure-data-algorithm
+# :snake: Python Structure Data & Algorithm
 Struktur data dan algoritma dengan Python
